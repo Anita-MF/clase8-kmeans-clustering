@@ -14,10 +14,10 @@ Segmentar clientes a partir de su comportamiento de compra para identificar perf
 - **Elección final: k=6.**
 
 ### Gráficos (enlaces RAW para que siempre se vean)
-![Codo](https://github.com/USER/REPO/blob/main/figs/elbow_inercia_k2_a_k6.png?raw=1)
-![Silhouette](https://github.com/USER/REPO/blob/main/figs/silhouette_k2_a_k6.png?raw=1)
-![Scatter ticket vs frecuencia](https://github.com/USER/REPO/blob/main/figs/scatter_avg_vs_freq_k6.png?raw=1)
-![PCA 2D](https://github.com/USER/REPO/blob/main/figs/pca2d_k6.png?raw=1)
+![Codo](https://github.com/Anita-MF/clase8-kmeans-clustering/blob/main/figs/elbow_inercia_k2_a_k6.png)
+![Silhouette](https://github.com/Anita-MF/clase8-kmeans-clustering/blob/main/figs/silhouette_k2_a_k6.png)
+![Scatter ticket vs frecuencia](https://github.com/Anita-MF/clase8-kmeans-clustering/blob/main/figs/Ticket%20vs%20frecuencias.png)
+![PCA 2D](https://github.com/Anita-MF/clase8-kmeans-clustering/blob/main/figs/Separaciones_k6.png)
 
 ## Resultados y patrones
 - Bandas por ticket: ~90 / ~180 / ~450 USD; separación adicional por frecuencia (~12/mes en alta frecuencia).
